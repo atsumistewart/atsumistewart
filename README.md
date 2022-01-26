@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @atsumistewart
-- 👀 I’m interested in AI project management.
+- 👀 I’m interested in AI/ML + finance + art & design + project management.
 - 🌱 I’m currently learning Project Managemt + Data Science.
 
 <!---
