@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @atsumistewart
 - 👀 I’m interested in AI/ML + finance + art & design + project management.
-- 🌱 I’m currently learning Project Managemt + Data Science.
+- 🌱 I’m currently learning Data Science.
 
 <!---
 atsumistewart/atsumistewart is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
